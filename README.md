@@ -83,12 +83,11 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
   </tr>
 </table>
 
-[![Raqeeb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaeesRaqeeb)](https://github.com/RaeesRaqeeb/github-readme-activity-graph)
-
-
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaeesRaqeeb%20&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Raqeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaeesRaqeeb&bg_color=000000&color=c4c4c4&line=878787&point=878282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
