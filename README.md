@@ -1,7 +1,7 @@
 <!-- 
 ![reame4](https://user-images.githubusercontent.com/90326051/164891150-8bc4a1d8-b9df-4a83-8857-3cf47e320658.png) 
 
-<h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/KiranAminPanjwani/" target="_blank"> Kiran Panjwani 👋</a>
+<h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/Raqeeb/" target="_blank">RAQEEB 👋</a>
   </br>
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
@@ -82,6 +82,9 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark" /></td>
   </tr>
 </table>
+
+[![Raqeeb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaeesRaqeeb)](https://github.com/RaeesRaqeeb/github-readme-activity-graph)
+
 
 
 
