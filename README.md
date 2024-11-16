@@ -84,5 +84,5 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
 </table>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RaeesRaqeeb" alt="GitHub Streak" /></a>
-[![Raqeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaeesRaqeeb&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/RaeesRaqeeb/github-readme-activity-graph)
+[![Raqeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaeesRaqeeb&theme=github)](https://github.com/RaeesRaqeeb/github-readme-activity-graph)
 
