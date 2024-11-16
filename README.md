@@ -78,7 +78,6 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
   
 <table>
   <tr>
-    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=RaeesRaqeeb&show_icons=true&theme=dark"/></td>
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark" /></td>
   </tr>
 </table>
