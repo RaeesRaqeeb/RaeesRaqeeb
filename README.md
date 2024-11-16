@@ -76,18 +76,15 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
    -->
 # ⚙️ GitHub Analytics
   
-
+<table>
   <tr>
-<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=RaeesRaqeeb&show_icons=true&theme=dark"/>
+    <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=RaeesRaqeeb&show_icons=true&theme=dark"/></td>
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaeesRaqeeb%20&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaeesRaqeeb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Raqeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaeesRaqeeb&bg_color=000000&color=c4c4c4&line=878787&point=878282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
