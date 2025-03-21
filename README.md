@@ -74,6 +74,7 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
 <h2 align="left">Support My Work:</h2>
 <p><a href="https://www.buymeacoffee.com/kiranpanjwani220"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KiranAminPanjwani" /></a></p><br><br>
    -->
+   <hr>
 # ⚙️ GitHub Analytics
   
 <table>
@@ -81,7 +82,6 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark" /></td>
   </tr>
 </table>
-
+<hr>
 [![GitHub Streak](https://github-readme-streak-stats-pi-liart.vercel.app?user=RaeesRaqeeb&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-[![Raqeeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaeesRaqeeb&theme=github)](https://github.com/RaeesRaqeeb/github-readme-activity-graph)
 
