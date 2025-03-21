@@ -83,5 +83,4 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
   </tr>
 </table>
 <hr>
-[![GitHub Streak](https://github-readme-streak-stats-pi-liart.vercel.app?user=RaeesRaqeeb&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-liart.vercel.app?user=RaeesRaqeeb&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
