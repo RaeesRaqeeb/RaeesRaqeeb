@@ -17,7 +17,7 @@ I am <b>RAQEEB</b>, a <b>Artificial Intelligence</b> 4th Semester Student at FAS
 
 > ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
-<h3 align="center">Tech Enthusiast | Automation Lover |  </h3>
+<h3 align="center">Tech Enthusiast | Automation Lover   </h3>
    <div align="center">
 
  <h1 align="center">Connect with me</h1>
@@ -51,8 +51,8 @@ I am <b>RAQEEB</b>, a <b>Artificial Intelligence</b> 4th Semester Student at FAS
 
 </p>
 
-
-Looking for an opportunity to enhance my skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.
+<p align="left">
+Looking for an opportunity to enhance my skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.</p>
 
 <!--
 <h1 align="center">💻 Projects</h1>
@@ -75,12 +75,14 @@ Looking for an opportunity to enhance my skills and utilize my extensive experie
 <p><a href="https://www.buymeacoffee.com/kiranpanjwani220"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KiranAminPanjwani" /></a></p><br><br>
    -->
    <hr>
-# ⚙️ GitHub Analytics
-  
+<p align="left">
 <table>
   <tr>
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark" /></td>
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaeesRaqeeb&layout=compact&theme=dark"  /></td>
   </tr>
-</table>
+</table></P>
 <hr>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-liart.vercel.app?user=RaeesRaqeeb&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
+<p align="left">
+<h2>Streaks</h2>
+<a align="left" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pi-liart.vercel.app?user=RaeesRaqeeb&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a></p>
