@@ -13,7 +13,7 @@
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>RAQEEB</b>, a <b>Artificial Intelligence</b> 4th Semester Student at FAST NUCES.
+I am <b>RAQEEB</b> doing BS-<b>Artificial Intelligence</b> at FAST NUCES.
 
 > ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
