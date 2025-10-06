@@ -15,7 +15,7 @@
 
 I am <b>RAQEEB</b> doing BS-<b>Artificial Intelligence</b> at FAST NUCES.
 
-> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.
 
 <h3 align="center">Tech Enthusiast | Automation Lover   </h3>
    <div align="center">
